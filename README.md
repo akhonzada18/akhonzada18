@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ghulam Muhammad Akhonzada
+# Hi, I'm GM Akhonzada
 
 ## Software Engineer | Backend Developer | AI Enthusiast
 
@@ -12,20 +12,20 @@ I specialize in building high-performance systems with a focus on scalable appli
 - [RokuProducts - Twitch TV Backend System](https://github.com/RokuProducts/twitch-back-end)
 - [Survtyx - Transport Teori Backend System](https://github.com/SyedHamzaAzhar/driver-license-backend)
 
-### 🌱 **Currently Learning**
+### **Currently Learning**
 - DevOps and Cloud Infrastructure
 
 ### 📫 **Reach Me On**
 - [LinkedIn](https://www.linkedin.com/in/gm-akhonzada)
-- Email: [ghulamakhonzada@gmail.com](mailto:ghulamakhonzada@gmail.com)
+- [ghulamakhonzada@gmail.com](mailto:ghulamakhonzada@gmail.com)
 
 ---
 
 ### **Tech Stack:**
-- **Languages**: Java, Python, JavaScript, TypeScript
+- **Languages**: Python, JavaScript, TypeScript, Java
 - **Frameworks**: Node.js, NestJS, Express, Django, Flask, FastAPI
 - **Databases**: PostgreSQL, MySQL, MongoDB
-- **Tools**: Docker, Kubernetes, GitHub Actions
+- **Tools**: Docker, GitHub Actions
 - **Cloud**: AWS, DigitalOcean
 - **CI/CD**: GitHub Actions
 
