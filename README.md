@@ -1,35 +1,18 @@
-# Hi, I'm GM Akhonzada
+# GM Akhonzada  
 
-## Software Engineer | Backend & AI Enthusiast
+**`Software Engineer | Backend Developer | Cloud & AI Enthusiast`**  
 
-I specialize in building high-performance systems with a focus on scalable applications. I have experience working with modern backend technologies like **Node.js**, **NestJS**, **Express**, **Flask**, **FastAPI**, and **Django**, along with relational and non-relational databases.
-
----
-
-### 🔭 **Currently Working On**
-- [Invotyx - Referral Backend System](https://github.com/Invotyx/referral-back-end)
-- [Invotyx - Adara Backend System](https://github.com/Invotyx/adara-vpn-backend)
-- [RokuProducts - Twitch TV Backend System](https://github.com/RokuProducts/twitch-back-end)
-- [Survtyx - Transport Teori Backend System](https://github.com/SyedHamzaAzhar/driver-license-backend)
-
-### **Currently Learning**
-- DevOps and Cloud Infrastructure
-
-### 📫 **Reach Me On**
-- [LinkedIn](https://www.linkedin.com/in/gm-akhonzada)
-- [ghulamakhonzada@gmail.com](mailto:ghulamakhonzada@gmail.com)
+Passionate about transforming ideas into scalable, high-performance backend systems. Proficient in **Node.js**, **NestJS**, **Express**, **Django**, **Flask**, and **FastAPI**, with expertise in **PostgreSQL**, **MySQL**, and **MongoDB**. Currently contributing to cutting-edge backend solutions at [Invotyx](https://invotyx.com) while diving deeper into **DevOps** and **Cloud Infrastructure**.
 
 ---
 
-### **Tech Stack:**
-- **Languages**: Python, JavaScript, TypeScript, Java
-- **Frameworks**: Node.js, NestJS, Express, Django, Flask, FastAPI
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Tools**: Docker, GitHub Actions
-- **Cloud**: AWS, DigitalOcean
-- **CI/CD**: GitHub Actions
+### ⚡ **Tech Highlights**  
+- **Languages**: Python, JavaScript, TypeScript, Java  
+- **Frameworks**: Node.js, NestJS, Express, Django, Flask, FastAPI  
+- **Databases**: PostgreSQL, MySQL, MongoDB  
+- **Tools**: Docker, GitHub Actions  
+- **Cloud**: AWS, DigitalOcean  
 
 ---
 
-### **Stats:**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhonzada18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+**"Driving technology with precision and passion."**  
