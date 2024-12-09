@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Ghulam Muhammad Akhonzada
 
-<!--
-**akhonzada18/akhonzada18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Backend Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I specialize in building high-performance systems with a focus on scalable applications. I have experience working with modern backend technologies like **Node.js**, **NestJS**, **Express**, **Flask**, **FastAPI**, and **Django**, along with relational and non-relational databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 **Currently Working On**
+- [Invotyx - Referral Backend System](https://github.com/Invotyx/referral-back-end)
+- [Invotyx - Adara Backend System](https://github.com/Invotyx/adara-vpn-backend)
+- [RokuProducts - Twitch TV Backend System](https://github.com/RokuProducts/twitch-back-end)
+- [Survtyx - Transport Teori Backend System](https://github.com/SyedHamzaAzhar/driver-license-backend)
+
+### 🌱 **Currently Learning**
+- DevOps and Cloud Infrastructure
+
+### 📫 **Reach Me On**
+- [LinkedIn](https://www.linkedin.com/in/gm-akhonzada)
+- Email: [ghulamakhonzada@gmail.com](mailto:ghulamakhonzada@gmail.com)
+
+---
+
+### **Tech Stack:**
+- **Languages**: Java, Python, JavaScript, TypeScript
+- **Frameworks**: Node.js, NestJS, Express, Django, Flask, FastAPI
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Tools**: Docker, Kubernetes, GitHub Actions
+- **Cloud**: AWS, DigitalOcean
+- **CI/CD**: GitHub Actions
+
+---
+
+### **GitHub Stats:**
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akhonzada18&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhonzada18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
