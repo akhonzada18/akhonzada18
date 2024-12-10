@@ -8,7 +8,8 @@ Passionate about transforming ideas into scalable, high-performance backend syst
 
 ### **Tech Highlights**  
 - **Languages**: Python, JavaScript, TypeScript, Java  
-- **Frameworks**: Node.js, NestJS, Express, Django, Flask, FastAPI  
+- **Frameworks**: Node.js, NestJS, Express, Django, Flask, FastAPI
+- **AI/ML Frameworks**: TensorFlow, PyTorch, Keras, YOLO, Data-labeling, Model-training
 - **Databases**: PostgreSQL, MySQL, MongoDB  
 - **Tools**: Docker, GitHub Actions  
 - **Cloud**: AWS, DigitalOcean  
