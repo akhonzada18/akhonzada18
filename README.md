@@ -1,19 +1,21 @@
-# GM Akhonzada  
+# GM Akhonzada
 
-**`Software Engineer | Backend Developer | Cloud & AI Enthusiast`**  
+**`Software Engineer | Full-Stack & Backend Developer | AI & Cloud`**
 
-Passionate about transforming ideas into scalable, high-performance backend systems. Proficient in **Node.js**, **NestJS**, **Express**, **Django**, **Flask**, and **FastAPI**, with expertise in **PostgreSQL**, **MySQL**, and **MongoDB**. Currently contributing to cutting-edge backend solutions at [Invotyx](https://invotyx.com) while diving deeper into **DevOps** and **Cloud Infrastructure**.
-
----
-
-### **Tech Highlights**  
-- **Languages**: Python, JavaScript, TypeScript, Java  
-- **Frameworks**: Node.js, NestJS, Express, Django, Flask, FastAPI
-- **AI/ML Frameworks**: TensorFlow, PyTorch, Keras, YOLO, Data-labeling, Model-training
-- **Databases**: PostgreSQL, MySQL, MongoDB  
-- **Tools**: Docker, GitHub Actions  
-- **Cloud**: AWS, DigitalOcean  
+Building scalable, high-performance backend systems and full-stack applications. Experienced with **Node.js**, **NestJS**, **Fastify**, **Express**, **Django**, and **FastAPI**, with expertise in **TypeScript**, **React.js**, **PostgreSQL**, **MySQL**, **MongoDB**, and **Redis**. Currently contributing to production systems at **Invotyx**, with a focus on **backend architecture, cloud infrastructure, DevOps, automation, and AI-powered solutions**.
 
 ---
 
-**"Driving technology with precision and passion."**  
+### **Tech Highlights**
+
+* **Languages**: Python, JavaScript, TypeScript
+* **Backend**: Node.js, NestJS, Fastify, Express, Django, FastAPI
+* **Frontend**: React.js, Next.js
+* **AI**: OpenAI, Gemini, DeepSeek, Ollama, TensorFlow, YOLO
+* **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+* **DevOps & Cloud**: Docker, GitHub Actions, AWS, DigitalOcean, Nginx
+* **Architecture**: REST APIs, Clean Architecture, SOLID, Event-Driven Systems
+
+---
+
+**`Building reliable systems. Solving complex problems. Exploring AI.`**
